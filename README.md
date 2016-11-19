@@ -1,13 +1,12 @@
 # Notification Bot
 
-## Items needed to create the Sig Bot:
+## Items needed to create the Notification Bot:
   1. Microsoft Azure Subscription
   2. Microsoft Visual Studio 15
   3. Microsoft C++ SDK
   4. Microsoft Bot Framework Emulator
-  5. GroupMe Account and Access to GroupMe Develeper page: https://dev.groupme.com/
-  6. BotBuilder from GitHub: https://github.com/Microsoft/BotBuilder
-  7. PuTTy (Maybe)
+  5. BotBuilder from GitHub: https://github.com/Microsoft/BotBuilder
+  6. PuTTy (Maybe)
 
 ## Resources:
 Bot Framework Documentation: https://docs.botframework.com/en-us/ <br />
